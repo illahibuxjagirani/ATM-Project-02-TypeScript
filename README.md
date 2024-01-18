@@ -1,2 +1,2 @@
-# Project-03
+# Project-02 TypeScript PIAIC
 ATM Console Based Application using 
